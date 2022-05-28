@@ -1,0 +1,15 @@
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\bin\Debug\net6.0\abstractfactory.exe
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\bin\Debug\net6.0\abstractfactory.deps.json
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\bin\Debug\net6.0\abstractfactory.runtimeconfig.json
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\bin\Debug\net6.0\abstractfactory.dll
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\bin\Debug\net6.0\abstractfactory.pdb
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\abstractfactory.csproj.AssemblyReference.cache
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\abstractfactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\abstractfactory.AssemblyInfoInputs.cache
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\abstractfactory.AssemblyInfo.cs
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\abstractfactory.csproj.CoreCompileInputs.cache
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\abstractfactory.dll
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\refint\abstractfactory.dll
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\abstractfactory.pdb
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\abstractfactory.genruntimeconfig.cache
+C:\Users\Anatoly\Desktop\tmps\abstractfactory\abstractfactory\obj\Debug\net6.0\ref\abstractfactory.dll
